@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\91959\OneDrive\Desktop\Java projects\DATA STRUCTURE\SinglyLinkList\.metadata\.plugins\org.eclipse.jdt.core
